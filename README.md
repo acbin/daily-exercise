@@ -18,7 +18,7 @@
         <td></td> 
         <td></td>
         <td></td> 
-        <td>1</td> 
+        <td>1✔<br>俯卧撑40*3</td> 
         <td>2</td> 
         <td>3</td> 
         <td>4</td> 
