@@ -1,24 +1,25 @@
 # Daily Exercise
 
 ## 2019
+
 <table>
     <tr>
-        <th colspan="7">May</th>
+        <th colspan="7">MAY</th>
     </tr>
     <tr>
-        <td>Sunday</td> 
-        <td>Monday</td>
-        <td>Tuesday</td> 
-        <td>Wednesday</td> 
-        <td>Thursday</td> 
-        <td>Friday</td> 
-        <td>Saturday</td> 
+        <td>Su</td> 
+        <td>Mo</td>
+        <td>Tu</td> 
+        <td>We</td> 
+        <td>Th</td> 
+        <td>Fr</td> 
+        <td>Sa</td> 
    </tr>
   <tr align="center">
         <td></td> 
         <td></td>
         <td></td> 
-        <td>1✔<br>俯卧撑40*3</td> 
+        <td>1✔<br>push-up 40*3</td> 
         <td>2</td> 
         <td>3</td> 
         <td>4</td> 
@@ -60,3 +61,6 @@
         <td></td> 
    </tr>
 </table>
+
+## LICENSE
+[Creative Commons Attribution Share Alike 4.0 International](https://github.com/yanglbme/daily-exercise/blob/master/LICENSE)
