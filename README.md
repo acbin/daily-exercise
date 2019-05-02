@@ -20,7 +20,8 @@
         <td></td>
         <td></td> 
         <td>1✔<br>40*3 push-ups</td> 
-        <td>2</td> 
+        <td>2✔<br> 40*3 push-ups<br>
+  30*2 squats</td> 
         <td>3</td> 
         <td>4</td> 
    </tr>
