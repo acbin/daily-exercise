@@ -6,7 +6,7 @@
     <tr>
         <th colspan="7">MAY</th>
     </tr>
-    <tr>
+    <tr align="center">
         <td>Su</td> 
         <td>Mo</td>
         <td>Tu</td> 
@@ -19,7 +19,7 @@
         <td></td> 
         <td></td>
         <td></td> 
-        <td>1✔<br>push-up 40*3</td> 
+        <td>1✔<br>40*3 push-ups</td> 
         <td>2</td> 
         <td>3</td> 
         <td>4</td> 
