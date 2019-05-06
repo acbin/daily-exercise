@@ -30,7 +30,8 @@
   <tr align="center">
         <td>5✔<br> 40*3 push-ups<br>
   30*2 squats</td>
-        <td>6</td>
+        <td>6✔<br> 40*3 push-ups<br>
+  30*2 squats</td>
         <td>7</td> 
         <td>8</td> 
         <td>9</td> 
