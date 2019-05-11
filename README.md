@@ -40,7 +40,8 @@
   40*2 squats</td> 
         <td>10✔<br> 40*5 push-ups<br>
   40*2 squats<br>30mins ‍🏃‍</td>
-        <td>11</td>
+        <td>11✔<br> 40*5 push-ups<br>
+  40*2 squats</td>
    </tr>
   <tr align="center">
         <td>12</td>
