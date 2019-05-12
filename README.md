@@ -44,7 +44,8 @@
   40*2 squats</td>
    </tr>
   <tr align="center">
-        <td>12</td>
+        <td>12 40*5 push-ups<br>
+  40*2 squats</td>
         <td>13</td>
         <td>14</td>
         <td>15</td>
