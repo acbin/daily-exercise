@@ -54,7 +54,8 @@
   40*2 squats</td>
         <td>16✔<br> 40*5 push-ups<br>
   40*2 squats</td>
-        <td>17</td>
+        <td>17✔<br> 40*6 push-ups<br>
+  40*2 squats</td>
         <td>18</td>
    </tr>
   <tr align="center">
