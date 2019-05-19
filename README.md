@@ -60,7 +60,8 @@
   40*2 squats</td>
    </tr>
   <tr align="center">
-        <td>19</td>
+        <td>19✔<br> 40*5 push-ups<br>
+  40*2 squats</td>
         <td>20</td>
         <td>21</td>
         <td>22</td>
