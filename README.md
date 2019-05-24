@@ -70,8 +70,9 @@
   40*2 squats</td>
         <td>23✔<br> 40*5 push-ups<br>
   40*2 squats<br> one hour aerobic exercise<br>abdominal muscle tear training</td>
-        <td>24</td>
-        <td>25</td>
+        <td>24✔<br> 40*5 push-ups<br>
+  40*2 squats</td>
+        <td>25×<br> have a day off</td>
    </tr>
   <tr align="center">
         <td>26</td>
