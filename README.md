@@ -75,7 +75,7 @@
         <td>25×<br> have a day off</td>
    </tr>
   <tr align="center">
-        <td>26</td>
+        <td>26✔<br> one hour aerobic exercise<br>abdominal muscle tear training</td>
         <td>27</td>
         <td>28</td>
         <td>29</td>
