@@ -78,7 +78,7 @@
         <td>26✔<br> one hour aerobic exercise<br>abdominal muscle tear training</td>
         <td>27✔<br>40*2 squats</td>
         <td>28✔<br>40*2 squats</td>
-        <td>29</td>
+        <td>29✔<br>abdominal muscle tear training</td>
         <td>30</td>
         <td>31</td>
         <td></td>
