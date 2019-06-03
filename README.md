@@ -1,5 +1,5 @@
 # Daily Exercise
-> 自律使我自由
+> 自律给我自由
 
 ## 2019
 
@@ -26,7 +26,7 @@
       <td>2✔<br>腹肌撕裂者进阶<br>徒手胸肌进阶训练</td>
    </tr>
   <tr align="center">
-      <td>3</td>
+      <td>3✔<br>腹肌撕裂者进阶<br>徒手胸肌进阶训练</td>
       <td>4</td>
       <td>5</td>
       <td>6</td>
