@@ -27,8 +27,8 @@
    </tr>
   <tr align="center">
       <td>3✔<br>腹肌撕裂者进阶<br>徒手胸肌进阶训练</td>
-      <td>4</td>
-      <td>5</td>
+      <td>4✔<br>腹肌撕裂者进阶<br>徒手胸肌进阶训练</td>
+      <td>5✔<br>腹肌撕裂者进阶</td>
       <td>6</td>
       <td>7</td>
       <td>8</td>
