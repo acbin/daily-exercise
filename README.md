@@ -8,13 +8,13 @@
         <th colspan="7">JUNE</th>
     </tr>
     <tr align="center">
-        <td>Mo</td>
-        <td>Tu</td>
-        <td>We</td>
-        <td>Th</td>
-        <td>Fr</td>
-        <td>Sa</td>
-        <td>Su</td>
+        <td>Monday</td>
+        <td>Tuesday</td>
+        <td>Wednesday</td>
+        <td>Thursday</td>
+        <td>Friday</td>
+        <td>Saturday</td>
+        <td>Sunday</td>
    </tr>
   <tr align="center">
       <td></td>
@@ -22,17 +22,17 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>1✔<br>腹肌撕裂者进阶<br>徒手胸肌进阶训练</td>
-      <td>2✔<br>腹肌撕裂者进阶<br>徒手胸肌进阶训练</td>
+      <td>1✔<br>腹肌撕裂者进阶+徒手胸肌进阶训练</td>
+      <td>2✔<br>腹肌撕裂者进阶+徒手胸肌进阶训练</td>
    </tr>
   <tr align="center">
-      <td>3✔<br>腹肌撕裂者进阶<br>徒手胸肌进阶训练</td>
-      <td>4✔<br>腹肌撕裂者进阶<br>徒手胸肌进阶训练</td>
+      <td>3✔<br>腹肌撕裂者进阶+徒手胸肌进阶训练</td>
+      <td>4✔<br>腹肌撕裂者进阶+徒手胸肌进阶训练</td>
       <td>5✔<br>腹肌撕裂者进阶</td>
       <td>6✔<br>腹肌撕裂者进阶</td>
-      <td>7✔<br>腹肌塑造进阶<br>徒手胸肌进阶训练</td>
-      <td>8✔<br>腹肌塑造进阶<br>徒手胸肌进阶训练</td>
-      <td>9✔<br>臀腹激活<br>腹肌塑造进阶</td>
+      <td>7✔<br>腹肌塑造进阶+徒手胸肌进阶训练</td>
+      <td>8✔<br>腹肌塑造进阶+徒手胸肌进阶训练</td>
+      <td>9✔<br>臀腹激活+腹肌塑造进阶</td>
    </tr>
   <tr align="center">
       <td>10</td>
