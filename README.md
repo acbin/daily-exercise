@@ -35,7 +35,7 @@
       <td>9✔<br>臀腹激活+腹肌塑造进阶</td>
    </tr>
   <tr align="center">
-      <td>10</td>
+      <td>10✔<br>腹肌塑造进阶+两分钟平板支撑</td>
       <td>11</td>
       <td>12</td>
       <td>13</td>
