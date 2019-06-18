@@ -45,7 +45,7 @@
    </tr>
   <tr align="center">
       <td>17✔<br>腹肌塑造进阶</td>
-      <td>18</td>
+      <td>18✔<br>腹肌塑造进阶+徒手胸肌进阶训练</td>
       <td>19</td>
       <td>20</td>
       <td>21</td>
