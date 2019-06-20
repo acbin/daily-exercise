@@ -47,7 +47,7 @@
       <td>17✔<br>腹肌塑造进阶</td>
       <td>18✔<br>腹肌塑造进阶+徒手胸肌进阶训练</td>
       <td>19✔<br>田径场跑步六公里</td>
-      <td>20</td>
+      <td>20✔<br>腹肌塑造强化</td>
       <td>21</td>
       <td>22</td>
       <td>23</td>
@@ -64,4 +64,4 @@
 </table>
 
 ## LICENSE
-[Creative Commons Attribution Share Alike 4.0 International](https://github.com/yanglbme/daily-exercise/blob/master/LICENSE)
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
