@@ -49,7 +49,7 @@
       <td>19✔<br>田径场跑步六公里</td>
       <td>20✔<br>腹肌塑造强化</td>
       <td>21✔<br>田径场跑步八公里</td>
-      <td>22</td>
+      <td>22✔<br>腹肌塑造进阶</td>
       <td>23</td>
    </tr>
   <tr align="center">
