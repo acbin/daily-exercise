@@ -55,7 +55,7 @@
   <tr align="center">
       <td>23✔<br>腹肌塑造进阶</td>
       <td>24✔<br>腹肌塑造进阶</td>
-      <td>25</td>
+      <td>25✔<br>腹肌塑造进阶</td>
       <td>26</td>
       <td>27</td>
       <td>28</td>
