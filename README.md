@@ -58,7 +58,7 @@
       <td>25✔<br>腹肌塑造进阶</td>
       <td>26✔<br>腹肌塑造进阶</td>
       <td>27✔<br>田径场跑步五公里</td>
-      <td>28</td>
+      <td>28✔<br>田径场跑步三公里</td>
       <td>29</td>
    </tr>
    <tr align="center">
