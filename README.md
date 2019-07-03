@@ -59,13 +59,73 @@
       <td>26✔<br>腹肌塑造进阶</td>
       <td>27✔<br>田径场跑步五公里</td>
       <td>28✔<br>田径场跑步三公里</td>
-      <td>29</td>
+      <td>29×<br>受伤暂停训练</td>
    </tr>
    <tr align="center">
+      <td>30×<br>受伤暂停训练</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+</table>
+
+<table>
+    <tr>
+        <th colspan="7">July</th>
+    </tr>
+    <tr align="center">
+        <td>S</td>
+        <td>M</td>
+        <td>T</td>
+        <td>W</td>
+        <td>T</td>
+        <td>F</td>
+        <td>S</td>
+   </tr>
+  <tr align="center">
+      <td></td>
+      <td>1×<br>受伤暂停训练</td>
+      <td>2×<br>受伤暂停训练</td>
+      <td>3</td>
+      <td>4</td>
+      <td>5</td>
+      <td>6</td>
+   </tr>
+  <tr align="center">
+      <td>7</td>
+      <td>8</td>
+      <td>9</td>
+      <td>10</td>
+      <td>11</td>
+      <td>12</td>
+      <td>13</td>
+   </tr>
+  <tr align="center">
+      <td>14</td>
+      <td>15</td>
+      <td>16</td>
+      <td>17</td>
+      <td>18</td>
+      <td>19</td>
+      <td>20</td>
+   </tr>
+  <tr align="center">
+      <td>21</td>
+      <td>22</td>
+      <td>23</td>
+      <td>24</td>
+      <td>25</td>
+      <td>26</td>
+      <td>27</td>
+   </tr>
+  <tr align="center">
+      <td>28</td>
+      <td>29</td>
       <td>30</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>31</td>
       <td></td>
       <td></td>
       <td></td>
